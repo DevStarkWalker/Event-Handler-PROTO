@@ -5,8 +5,8 @@ using UnityEngine;
 public class EventHandler : MonoBehaviour
 {
 
-    private GameObject player;
-    private GameObject welcomeText;
+    public GameObject player;
+    public GameObject welcomeText;
     public List<GameObject> currentMission;
 
 
